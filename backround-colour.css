@@ -1,11 +1,19 @@
 body {
     background-color: lightcyan;
-    font-family:cursive
-    
+    font-family: "8BIT WONDER";
 }
 
-
 marquee{
- font-size:200px   
-    
+   font-size:200px   
+}
+
+#jack {
+    position: fixed;
+    height: 200px;
+    right: 0;
+}
+
+@font-face {
+    font-family: "8BIT WONDER";
+    src: url("allowed_to_use_it.TTF");
 }
